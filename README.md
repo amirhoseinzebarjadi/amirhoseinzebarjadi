@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amirhosein Zebarjadi
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Backend programming with C# and FRONTEND with CSS, HTML and JS
-- 💞️ I’m working in the company
+- 👀 I’m get everything I want
+- 🌱 I’m currently learning Backend with C# and FRONTEND with CSS, HTML and JS
+- 💞️ I’m interested in learning and programming
 - 📫  My Mail is Amirhosein.zebarjadi@gmail.com
 
 <!---
